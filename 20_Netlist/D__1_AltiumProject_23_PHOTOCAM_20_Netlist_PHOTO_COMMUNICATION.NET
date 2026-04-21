@@ -1,0 +1,661 @@
+PARTS LIST
+
+2.2uF/6.3V        CAP_C_1005X60   C1
+2.2uF/6.3V        CAP_C_1005X60   C2
+2.2uF/6.3V        CAP_C_1005X60   C3
+2.2uF/6.3V        CAP_C_1005X60   C4
+0.22uF/16V        CAP_C_1005X60   C5
+2.2uF/6.3V        CAP_C_1005X60   C6
+2.2uF/6.3V        CAP_C_1005X60   C7
+2.2uF/6.3V        CAP_C_1005X60   C8
+2.2uF/6.3V        CAP_C_1005X60   C9
+0.22uF/16V        CAP_C_1005X60   C10
+2.2uF/6.3V        CAP_C_1005X60   C11
+2.2uF/6.3V        CAP_C_1005X60   C12
+2.2uF/6.3V        CAP_C_1005X60   C13
+2.2uF/6.3V        CAP_C_1005X60   C14
+0.22uF/16V        CAP_C_1005X60   C15
+2.2uF/6.3V        CAP_C_1005X60   C16
+2.2uF/6.3V        CAP_C_1005X60   C17
+2.2uF/6.3V        CAP_C_1005X60   C18
+2.2uF/6.3V        CAP_C_1005X60   C19
+0.22uF/16V        CAP_C_1005X60   C20
+2.2uF/6.3V        CAP_C_1005X60   C21
+2.2uF/6.3V        CAP_C_1005X60   C22
+2.2uF/6.3V        CAP_C_1005X60   C23
+0.22uF/16V        CAP_C_1005X60   C24
+2.2uF/6.3V        CAP_C_1005X60   C25
+2.2uF/6.3V        CAP_C_1005X60   C26
+2.2uF/6.3V        CAP_C_1005X60   C27
+0.22uF/16V        CAP_C_1005X60   C28
+2.2uF/6.3V        CAP_C_1005X60   C29
+2.2uF/6.3V        CAP_C_1005X60   C30
+2.2uF/6.3V        CAP_C_1005X60   C31
+0.22uF/16V        CAP_C_1005X60   C32
+2.2uF/6.3V        CAP_C_1005X60   C33
+2.2uF/6.3V        CAP_C_1005X60   C34
+2.2uF/6.3V        CAP_C_1005X60   C35
+0.22uF/16V        CAP_C_1005X60   C36
+2.2uF/6.3V        CAP_C_1005X60   C37
+2.2uF/6.3V        CAP_C_1005X60   C38
+2.2uF/6.3V        CAP_C_1005X60   C39
+2.2uF/6.3V        CAP_C_1005X60   C40
+2.2uF/6.3V        CAP_C_1005X60   C41
+0.22uF/16V        CAP_C_1005X60   C42
+2.2uF/6.3V        CAP_C_1005X60   C43
+2.2uF/6.3V        CAP_C_1005X60   C44
+2.2uF/6.3V        CAP_C_1005X60   C45
+2.2uF/6.3V        CAP_C_1005X60   C46
+2.2uF/6.3V        CAP_C_1005X60   C47
+0.22uF/16V        CAP_C_1005X60   C48
+2.2uF/6.3V        CAP_C_1005X60   C49
+2.2uF/6.3V        CAP_C_1005X60   C50
+2.2uF/6.3V        CAP_C_1005X60   C51
+2.2uF/6.3V        CAP_C_1005X60   C52
+2.2uF/6.3V        CAP_C_1005X60   C53
+0.22uF/16V        CAP_C_1005X60   C54
+2.2uF/6.3V        CAP_C_1005X60   C55
+2.2uF/6.3V        CAP_C_1005X60   C56
+2.2uF/6.3V        CAP_C_1005X60   C57
+2.2uF/6.3V        CAP_C_1005X60   C58
+2.2uF/6.3V        CAP_C_1005X60   C59
+0.22uF/16V        CAP_C_1005X60   C60
+0.22uF/16V        CAP_C_1005X60   C61
+0.22uF/16V        CAP_C_1005X60   C62
+0.22uF/16V        CAP_C_1005X60   C63
+0.22uF/16V        CAP_C_1005X60   C64
+0.22uF/16V        CAP_C_1005X60   C65
+0.22uF/16V        CAP_C_1005X60   C66
+0.22uF/16V        CAP_C_1005X60   C67
+0.22uF/16V        CAP_C_1005X60   C68
+4.7uF/10V         CAP_MP_1608X90  C69
+4.7uF/10V         CAP_MP_1608X90  C70
+4.7uF/10V         CAP_MP_1608X90  C71
+4.7uF/10V         CAP_MP_1608X90  C72
+4.7uF/10V         CAP_MP_1608X90  C73
+4.7uF/10V         CAP_MP_1608X90  C74
+4.7uF/10V         CAP_MP_1608X90  C75
+4.7uF/10V         CAP_MP_1608X90  C76
+4.7uF/10V         CAP_MP_1608X90  C77
+4.7uF/10V         CAP_MP_1608X90  C78
+0.22uF/16V        CAP_C_1005X60   C79
+0.22uF/16V        CAP_C_1005X60   C80
+0.22uF/16V        CAP_C_1005X60   C81
+2.2uF/6.3V        CAP_C_1005X60   C82
+0.22uF/25V        CN-SMD-0603     C83
+0.22uF/25V        CN-SMD-0603     C84
+470pF/50V         CN-SMD-0603     C85
+0.22uF/25V        CN-SMD-0603     C86
+0.22uF/25V        CN-SMD-0603     C87
+0.22uF/25V        CN-SMD-0603     C88
+10nF/50V          CN-SMD-0603     C89
+0.22uF/25V        CN-SMD-0603     C90
+0.22uF/25V        CN-SMD-0603     C91
+10nF/50V          CN-SMD-0603     C92
+0.22uF/25V        CN-SMD-0603     C93
+0.22uF/25V        CN-SMD-0603     C94
+470pF/50V         CN-SMD-0603     C95
+10nF/50V          CN-SMD-0603     C96
+0.22uF/25V        CN-SMD-0603     C97
+0.22uF/25V        CN-SMD-0603     C98
+470pF/50V         CN-SMD-0603     C99
+0.22uF/25V        CN-SMD-0603     C100
+0.22uF/25V        CN-SMD-0603     C101
+0.22uF/25V        CN-SMD-0603     C102
+0.22uF/25V        CN-SMD-0603     C103
+0.22uF/25V        CN-SMD-0603     C104
+0.22uF/25V        CN-SMD-0603     C105
+0.22uF/25V        CN-SMD-0603     C106
+0.22uF/25V        CN-SMD-0603     C107
+0.22uF/25V        CN-SMD-0603     C108
+0.22uF/25V        CN-SMD-0603     C109
+10uF 16V          CAP_TANT_1206   C110
+0.22uF/25V        CN-SMD-0603     C111
+0.22uF/25V        CN-SMD-0603     C112
+0.22uF/25V        CN-SMD-0603     C113
+0.22uF/25V        CN-SMD-0603     C114
+10nF/50V          CN-SMD-0603     C115
+0.22uF/25V        CN-SMD-0603     C116
+0.22uF/25V        CN-SMD-0603     C117
+47uF/20V          CAP TANT 2312   C118
+47uF/20V          CAP TANT 2312   C119
+0.22uF/25V        CN-SMD-0603     C120
+0.22uF/25V        CN-SMD-0603     C121
+0.22uF/25V        CN-SMD-0603     C122
+0.22uF/25V        CN-SMD-0603     C123
+47uF/20V          CAP TANT 2312   C124
+47uF/20V          CAP TANT 2312   C125
+0.22uF/25V        CN-SMD-0603     C126
+0.22uF/25V        CN-SMD-0603     C127
+10uF 16V          CAP_TANT_1206   C128
+10uF 16V          CAP_TANT_1206   C129
+10uF 16V          CAP_TANT_1206   C130
+S2303             SOT23-123       D1
+S2303             SOT23-123       D2
+S2303             SOT23-123       D3
+S2303             SOT23-123       D4
+SS54              DIO-SMD-A       D5
+LED_SMD           LED_0603        DO1
+LED_SMD           LED_0603        DO2
+LED_SMD           LED_0603        DO3
+M2                HEX-2.2mm       H1
+M2                HEX-2.2mm       H2
+HOLD              HEX-M3_NoVia_SmallerH3
+M2                HEX-2.2mm       H4
+HOLD              HEX-M3_NoVia_SmallerH5
+HOLD              HEX-M3_NoVia_SmallerH6
+HOLD              HEX-M3_NoVia_SmallerH7
+HOLD              HEX-M3_NoVia_SmallerH8
+HOLD              HEX-M3_NoVia_SmallerH9
+HOLD              HEX-M3_NoVia_SmallerH10
+HOLD              HEX-M3_NoVia_SmallerH11
+HOLD              HEX-M3_NoVia_SmallerH12
+0532611171        MOLEX_0532611171J1
+0532610971        0532610971      J2
+Conn shunt        M50-3930342     J3
+JUMP2             Jump2           JP1
+15uH/3.5A         SRP7050TA       L1
+Photodiode        VEMD5080X01     PD1
+Photodiode        VEMD5080X01     PD2
+Photodiode        VEMD5080X01     PD3
+Photodiode        VEMD5080X01     PD4
+Photodiode        VEMD5080X01     PD5
+Photodiode        VEMD5080X01     PD6
+Photodiode        VEMD5080X01     PD7
+Photodiode        VEMD5080X01     PD8
+Photodiode        VEMD5080X01     PD9
+Photodiode        VEMD5080X01     PD10
+Photodiode        VEMD5080X01     PD11
+Photodiode        VEMD5080X01     PD12
+Photodiode        VEMD5080X01     PD13
+Photodiode        VEMD5080X01     PD14
+Photodiode        VEMD5080X01     PD15
+Photodiode        VEMD5080X01     PD16
+Photodiode        VEMD5080X01     PD17
+Photodiode        VEMD5080X01     PD18
+Photodiode        VEMD5080X01     PD19
+Photodiode        VEMD5080X01     PD20
+Photodiode        VEMD5080X01     PD21
+Photodiode        VEMD5080X01     PD22
+Photodiode        VEMD5080X01     PD23
+Photodiode        VEMD5080X01     PD24
+4.7k              RES_C_1005X40   R1
+22R               RES_C_1005X40   R2
+10k               RES_C_1005X40   R3
+10k               RES_C_1005X40   R4
+10k               RES_C_1005X40   R5
+10k               RES_C_1005X40   R6
+10k               RES_C_1005X40   R7
+4.7k              RES_C_1005X40   R8
+4.7k              RES_C_1005X40   R9
+4.7k              RES_C_1005X40   R10
+4.7k              RES_C_1005X40   R11
+4.7k              RES_C_1005X40   R12
+4.7k              RES_C_1005X40   R13
+4.7k              RES_C_1005X40   R14
+4.7k              RES_C_1005X40   R15
+4.7k              RES_C_1005X40   R16
+4.7k              RES_C_1005X40   R17
+4.7k              RES_C_1005X40   R18
+4.7k              RES_C_1005X40   R19
+4.7k              RES_C_1005X40   R20
+4.7k              RES_C_1005X40   R21
+4.7k              RES_C_1005X40   R22
+4.7k              RES_C_1005X40   R23
+4.7k              RES_C_1005X40   R24
+4.7k              RES_C_1005X40   R25
+4.7k              RES_C_1005X40   R26
+22R               RES_C_1005X40   R27
+22R               RES_C_1005X40   R28
+4.7k              RES_C_1005X40   R29
+1k                RES_C_1005X40   R30
+330R              RES_C_1005X40   R31
+330R              RES_C_1005X40   R32
+4.7k              RES_C_1005X40   R33
+4.7k              RES_C_1005X40   R34
+4.7k              RES_C_1005X40   R35
+4.7k              RES_C_1005X40   R36
+4.7k              RES_C_1005X40   R37
+4.7k              RES_C_1005X40   R38
+22R               RES_C_1005X40   R39
+22R               RES_C_1005X40   R40
+22R               RES_C_1005X40   R41
+22R               RES_C_1005X40   R42
+22R               RES_C_1005X40   R43
+22R               RES_C_1005X40   R44
+22R/1%            RES-SMD-0603    R45
+22R/1%            RES-SMD-0603    R46
+0R                RES-SMD-0603    R47
+4.7K/1%           RES-SMD-0603    R48
+4.7K/1%           RES-SMD-0603    R49
+4.7K/1%           RES-SMD-0603    R50
+4.7K/1%           RES-SMD-0603    R51
+10K/1%            RES-SMD-0603    R52
+10K/1%            RES-SMD-0603    R53
+51R/1%            RES-SMD-0603    R54
+10K/1%            RES-SMD-0603    R55
+4.7K/1%           RES-SMD-0603    R56
+0R/DNP            RES-SMD-0603    R57
+330k/1%           RES-SMD-0603    R58
+4.7K/1%           RES-SMD-0603    R59
+4.7K/1%           RES-SMD-0603    R60
+10K/1%/DNP        RES-SMD-0603    R61
+10K/1%/DNP        RES-SMD-0603    R62
+2K/1%/DNP         RES-SMD-0603    R63
+4.7K/1%           RES-SMD-0603    R64
+4.7K/1%           RES-SMD-0603    R65
+10K/1%            RES-SMD-0603    R66
+3.24K/0.1%        RES-SMD-0603    R67
+                  Testpoint_80_pin0TP1
+                  Testpoint_80_pin0TP2
+                  Testpoint_80_pin0TP3
+                  Testpoint_80_pin0TP4
+                  Testpoint_80_pin0TP5
+                  Testpoint_80_pin0TP6
+                  Testpoint_80_pin0TP7
+                  Testpoint_80_pin0TP8
+Test_Point        TESTPOINT       TP9
+Test_Point        TESTPOINT       TP10
+Test_Point        TESTPOINT       TP11
+Test_Point        TESTPOINT       TP12
+Test_Point        TESTPOINT       TP13
+Test_Point        TESTPOINT       TP14
+Test_Point        TESTPOINT       TP15
+Test_Point        TESTPOINT       TP16
+Test_Point        TESTPOINT       TP17
+Test_Point        TESTPOINT       TP18
+Test_Point        TESTPOINT       TP19
+Test_Point        TESTPOINT       TP20
+                  Testpoint_80_pin0TP33
+                  Testpoint_80_pin0TP34
+                  Testpoint_80_pin0TP35
+AR2020            BGA78C100P11X9_1300X1050X210U1
+AR2020            BGA78C100P11X9_1300X1050X210U2
+AR2020            BGA78C100P11X9_1300X1050X210U3
+AR2020            BGA78C100P11X9_1300X1050X210U4
+PI3WVR626XEBEX    PI3WVR626XEBEX_DIO_2U5
+PI3WVR626XEBEX    PI3WVR626XEBEX_DIO_2U6
+PI3WVR626XEBEX    PI3WVR626XEBEX_DIO_2U7
+NL7SZ97DFT2G-Q    SC-88           U8
+NL7SZ97DFT2G-Q    SC-88           U9
+NL7SZ97DFT2G-Q    SC-88           U10
+NL7SZ97DFT2G-Q    SC-88           U11
+TLV75733PDYDR     SOT25-EPAD      U12
+TPS7A2024PDBVR    SOT25           U13
+TLV75528PDBVR     SOT25           U14
+NCP139AFCT105T2G  WLCSP6          U15
+TLV75518PDBVR     SOT25           U16
+TCA6416APWR       SOP65P440W-24N  U17
+PCA9544APW,118    SOP65P440W_20   U18
+ADS8329           TSSOP16         U19
+OPA4340           SSOP16          U20
+ADG1414BRUZ       TSSOP24         U21
+ADG1414BRUZ       TSSOP24         U22
+REF1930           SOT23-5         U23
+ADG1414BRUZ       TSSOP24         U24
+TPS5430DDAR       HSOP8           U25
+TPS7A4533DCQR     SOT223-6        U26
+ICL7660           SO8             U27
+DSC1001DL5-027.0000TOSCDFN250X200X89-4NY1
+EOS
+NET LIST
+
+NODENAME VREF_PD          $
+    C110       1  J3         2  TP19       1  U20        3
+NODENAME VREF_ADC         $
+    C88        2  R62        1  TP15       1  U19        7  U23        5
+NODENAME SW_CS            $
+    D3         3  J2         6  TP12       1  U21       24  U22       24  U24       24
+NODENAME SEN_SEL-1        $
+    R34        2  U6        13  U17       14
+NODENAME SEN_SEL-0        $
+    R33        2  U5        13  U7        13  U17       13
+NODENAME SEN_3_SDA        $
+    R22        2  U4        H6  U18       15
+NODENAME SEN_3_SCL        $
+    R23        2  U4        J6  U18       16
+NODENAME SEN_3_nOFF       $
+    R12        1  U4       A10  U17        8
+NODENAME SEN_3_GPIO0      $
+    U4        D1  U17        4
+NODENAME SEN_3_CLK_nENA_L $
+    R35        2  R39        2  U17       17
+NODENAME SEN_3_CLK_nENA   $
+    R39        1  U11        6
+NODENAME SEN_3_CLK        $
+    U4        A9  U11        4
+NODENAME SEN_2_SDA        $
+    R19        2  U3        H6  U18       12
+NODENAME SEN_2_SCL        $
+    R20        2  U3        J6  U18       13
+NODENAME SEN_2_nOFF       $
+    R10        1  U3       A10  U17        9
+NODENAME SEN_2_GPIO0      $
+    U3        D1  U17        5
+NODENAME SEN_2_CLK_nENA_L $
+    R36        2  R40        2  U17       18
+NODENAME SEN_2_CLK_nENA   $
+    R40        1  U10        6
+NODENAME SEN_2_CLK        $
+    U3        A9  U10        4
+NODENAME SEN_1_SDA        $
+    R16        2  U2        H6  U18        8
+NODENAME SEN_1_SCL        $
+    R17        2  U2        J6  U18        9
+NODENAME SEN_1_nOFF       $
+    R8         1  U2       A10  U17       10
+NODENAME SEN_1_GPIO0      $
+    U2        D1  U17        6
+NODENAME SEN_1_CLK_nENA_L $
+    R37        2  R41        2  U17       19
+NODENAME SEN_1_CLK_nENA   $
+    R41        1  U9         6
+NODENAME SEN_1_CLK        $
+    U2        A9  U9         4
+NODENAME SEN_0_SDA        $
+    R13        2  TP7        0  U1        H6  U18        5
+NODENAME SEN_0_SCL        $
+    R14        2  TP8        0  U1        J6  U18        6
+NODENAME SEN_0_nOFF       $
+    R1         1  U1       A10  U17       11
+NODENAME SEN_0_GPIO0      $
+    U1        D1  U17        7
+NODENAME SEN_0_CLK_nENA_L $
+    R38        2  R42        2  U17       20
+NODENAME SEN_0_CLK_nENA   $
+    R42        1  U8         6
+NODENAME SEN_0_CLK        $
+    U1        A9  U8         4
+NODENAME SEN3_D1_P        $
+    U4        A7  U7        16
+NODENAME SEN3_D1_N        $
+    U4        B7  U7        14
+NODENAME SEN3_D0_P        $
+    U4        A8  U7        22
+NODENAME SEN3_D0_N        $
+    U4        B8  U7        19
+NODENAME SEN3_CK_P        $
+    U4        A6  U7         3
+NODENAME SEN3_CK_N        $
+    U4        B6  U7         1
+NODENAME SEN2_D1_P        $
+    U3        A7  U7        17
+NODENAME SEN2_D1_N        $
+    U3        B7  U7        15
+NODENAME SEN2_D0_P        $
+    U3        A8  U7        23
+NODENAME SEN2_D0_N        $
+    U3        B8  U7        20
+NODENAME SEN2_CK_P        $
+    U3        A6  U7         4
+NODENAME SEN2_CK_N        $
+    U3        B6  U7         2
+NODENAME SEN2_3_D1_P      $
+    U6        16  U7        11
+NODENAME SEN2_3_D1_N      $
+    U6        14  U7        12
+NODENAME SEN2_3_D0_P      $
+    U6        22  U7         8
+NODENAME SEN2_3_D0_N      $
+    U6        19  U7        10
+NODENAME SEN2_3_CK_P      $
+    U6         3  U7         6
+NODENAME SEN2_3_CK_N      $
+    U6         1  U7         7
+NODENAME SEN1_D1_P        $
+    U2        A7  U5        16
+NODENAME SEN1_D1_N        $
+    U2        B7  U5        14
+NODENAME SEN1_D0_P        $
+    U2        A8  U5        22
+NODENAME SEN1_D0_N        $
+    U2        B8  U5        19
+NODENAME SEN1_CK_P        $
+    U2        A6  U5         3
+NODENAME SEN1_CK_N        $
+    U2        B6  U5         1
+NODENAME SEN0_D1_P        $
+    U1        A7  U5        17
+NODENAME SEN0_D1_N        $
+    U1        B7  U5        15
+NODENAME SEN0_D0_P        $
+    U1        A8  U5        23
+NODENAME SEN0_D0_N        $
+    U1        B8  U5        20
+NODENAME SEN0_CK_P        $
+    U1        A6  U5         4
+NODENAME SEN0_CK_N        $
+    U1        B6  U5         2
+NODENAME SEN0_1_D1_P      $
+    U5        11  U6        17
+NODENAME SEN0_1_D1_N      $
+    U5        12  U6        15
+NODENAME SEN0_1_D0_P      $
+    U5         8  U6        23
+NODENAME SEN0_1_D0_N      $
+    U5        10  U6        20
+NODENAME SEN0_1_CK_P      $
+    U5         6  U6         4
+NODENAME SEN0_1_CK_N      $
+    U5         7  U6         2
+NODENAME SDO-3            $
+    R51        1  U21       22
+NODENAME SDO-2            $
+    R59        1  U21        3  U22       22
+NODENAME SDO-1            $
+    R64        1  TP20       1  U22        3  U24       22
+NODENAME SCK_PD           $
+    D4         1  J2         3  TP9        1  U19       15  U21        1  U22        1  U24        1
+NODENAME PHOTODIODE       $
+    C99        1  R58        1  TP18       1  U20        2  U21        6  U21        8  U21       10  U21       12  U21       13  U21       15  U21       17  U21       19  U22        6  U22        8  U22       10  U22       12  U22       13  U22       15  U22       17  U22       19  U24        6  U24        8  U24       10  U24       12  U24       13  U24       15  U24       17  U24       19
+NODENAME nINT3            $
+    R24        2  U18       14
+NODENAME nINT2            $
+    R21        2  U18       11
+NODENAME nINT1            $
+    R18        2  U18        7
+NODENAME nINT0            $
+    R15        2  U18        4
+NODENAME nINT             $
+    R26        2  U18       17
+NODENAME NetR66-1         $
+    R66        1  R67        2  U25        4
+NODENAME NetR65-1         $
+    R65        1  U24       23
+NODENAME NetR61-2         $
+    R61        2  R62        2  R63        2
+NODENAME NetR60-1         $
+    R60        1  U22       23
+NODENAME NetR56-1         $
+    R56        1  U21       23
+NODENAME NetR52-1         $
+    R52        1  U20       15  U20       16
+NODENAME NetR29-2         $
+    R29        2  U17        3
+NODENAME NetR25-2         $
+    R25        2  U17        1
+NODENAME NetR7-1          $
+    R7         1  U16        3
+NODENAME NetR6-1          $
+    R6         1  U15       B2
+NODENAME NetR5-1          $
+    R5         1  U14        3
+NODENAME NetR4-1          $
+    R4         1  U13        3
+NODENAME NetR3-1          $
+    R3         1  U12        3
+NODENAME NetR2-2          $
+    R2         2  Y1         3
+NODENAME NetR2-1          $
+    R2         1  U8         1  U9         1  U10        1  U11        1
+NODENAME NetPD24-2        $
+    PD24       2  U24       16
+NODENAME NetPD23-2        $
+    PD23       2  U24       18
+NODENAME NetPD22-2        $
+    PD22       2  U24       14
+NODENAME NetPD21-2        $
+    PD21       2  U24       20
+NODENAME NetPD20-2        $
+    PD20       2  U24       11
+NODENAME NetPD19-2        $
+    PD19       2  U24        9
+NODENAME NetPD18-2        $
+    PD18       2  U24        7
+NODENAME NetPD17-2        $
+    PD17       2  U24        5
+NODENAME NetPD16-2        $
+    PD16       2  U22       16
+NODENAME NetPD15-2        $
+    PD15       2  U22       18
+NODENAME NetPD14-2        $
+    PD14       2  U22       14
+NODENAME NetPD13-2        $
+    PD13       2  U22       20
+NODENAME NetPD12-2        $
+    PD12       2  U22       11
+NODENAME NetPD11-2        $
+    PD11       2  U22        9
+NODENAME NetPD10-2        $
+    PD10       2  U22        7
+NODENAME NetPD9-2         $
+    PD9        2  U22        5
+NODENAME NetPD8-2         $
+    PD8        2  U21       16
+NODENAME NetPD7-2         $
+    PD7        2  U21       18
+NODENAME NetPD6-2         $
+    PD6        2  U21       14
+NODENAME NetPD5-2         $
+    PD5        2  U21       20
+NODENAME NetPD4-2         $
+    PD4        2  U21       11
+NODENAME NetPD3-2         $
+    PD3        2  U21        9
+NODENAME NetPD2-2         $
+    PD2        2  U21        7
+NODENAME NetPD1-2         $
+    PD1        2  U21        5
+NODENAME NetJ3-3          $
+    J3         3  R61        1
+NODENAME NetDO3-2         $
+    DO3        2  R32        2
+NODENAME NetDO2-2         $
+    DO2        2  R31        2
+NODENAME NetDO1-2         $
+    DO1        2  R30        2
+NODENAME NetC129-2        $
+    C129       2  U27        4
+NODENAME NetC129-1        $
+    C129       1  U27        2
+NODENAME NetC123-1        $
+    C123       1  C127       2
+NODENAME NetC122-1        $
+    C122       1  C126       2
+NODENAME NetC117-1        $
+    C117       1  C121       2
+NODENAME NetC116-1        $
+    C116       1  C120       2
+NODENAME NetC115-2        $
+    C115       2  U25        1
+NODENAME NetC115-1        $
+    C115       1  D5         2  L1         1  U25        8
+NODENAME NetC112-1        $
+    C112       1  C114       2
+NODENAME NetC111-1        $
+    C111       1  C113       2
+NODENAME NetC107-1        $
+    C107       1  C109       2
+NODENAME NetC106-1        $
+    C106       1  C108       2
+NODENAME NetC103-1        $
+    C103       1  C105       2
+NODENAME NetC102-1        $
+    C102       1  C104       2
+NODENAME NetC99-2         $
+    C99        2  R54        1  R58        2  U20        1
+NODENAME NetC98-1         $
+    C98        1  C101       2
+NODENAME NetC97-1         $
+    C97        1  C100       2
+NODENAME NetC96-2         $
+    C96        2  R55        2  U20       14
+NODENAME NetC95-2         $
+    C95        2  R54        2  R55        1  TP17       1
+NODENAME NetC92-2         $
+    C92        2  R53        2  U20       12
+NODENAME NetC91-1         $
+    C91        1  C94        2
+NODENAME NetC90-1         $
+    C90        1  C93        2
+NODENAME NetC89-2         $
+    C89        2  R52        2  R53        1
+NODENAME NetC85-2         $
+    C85        2  R45        1  U19        3
+NODENAME NetC85-1         $
+    C85        1  R46        1  U19        4
+NODENAME NetC84-1         $
+    C84        1  C87        2
+NODENAME NetC83-1         $
+    C83        1  C86        2
+NODENAME MOSI_PD          $
+    D4         3  J2         4  TP10       1  U19       12  U24        3
+NODENAME MISO_PD          $
+    D3         1  J2         5  TP11       1  U19       13
+NODENAME IO_SW_SDA        $
+    R27        1  U17       23
+NODENAME IO_SW_SCL        $
+    R28        1  U17       22
+NODENAME I2C_SW_SDA       $
+    R43        1  U18       19
+NODENAME I2C_SW_SCL       $
+    R44        1  U18       18
+NODENAME GND              $
+    C1         1  C2         1  C3         1  C4         1  C5         1  C6         1  C7         1  C8         1  C9         1  C10        1  C11        1  C12        1  C13        1  C14        1  C15        1  C16        1  C17        1  C18        1  C19        1  C20        1  C21        1  C22        1  C23        1  C24        1  C25        1  C26        1  C27        1  C28        1  C29        1  C30        1  C31        1  C32        1  C33        1  C34        1  C35        1  C36        1  C37        1  C38        1  C39        1  C40        1  C41        1  C42        1  C43        1  C44        1  C45        1  C46        1  C47        1  C48        1  C49        1  C50        1  C51        1  C52        1  C53        1  C54        1  C55        1  C56        1  C57        1  C58        1  C59        1  C60        1  C61        1  C62        1  C63        1  C64        1  C65        1  C66        1  C67        1  C68        1  C69        2  C70        2  C71        2  C72        2  C73        2  C74        2  C75        2  C76        2  C77        2  C78        2  C79        1  C80        1  C81        1  C82        1  C86        1  C87        1  C88        1  C92        1  C93        1  C94        1  C95        1  C96        1  C100       1  C101       1  C104       1  C105       1  C108       1  C109       1  C110       2  C113       1  C114       1  C118       2  C119       2  C120       1  C121       1  C124       2  C125       2  C126       1  C127       1  C128       2  C130       1  D1         2  D2         2  D3         2  D4         2  D5         1  DO1        1  DO2        1  DO3        1  H3         1  H5         1  H6         1  H7         1  H8         1  H9         1  H10        1  H11        1  H12        1  J1         7  J1        10  J1        M1  J1        M2  J2         2  J3         1  PD1        1  PD2        1  PD3        1  PD4        1  PD5        1  PD6        1  PD7        1  PD8        1  PD9        1  PD10       1  PD11       1  PD12       1  PD13       1  PD14       1  PD15       1  PD16       1  PD17       1  PD18       1  PD19       1  PD20       1  PD21       1  PD22       1  PD23       1  PD24       1  R1         2  R8         2  R10        2  R12        2  R46        2  R63        1  R67        1  TP33       0  TP34       0  TP35       0  U1       A11  U1        B1  U1        C2  U1        D4  U1        D5  U1        D6  U1        D7  U1        D8  U1        E4  U1        E5  U1        E6  U1        E7  U1        E8  U1        F2  U1        F4  U1        F5  U1        F6  U1        F7  U1        F8  U1        G2  U1        H2  U1        H3  U1        H5  U1        J1  U1        J4  U1        J5  U1       J11  U2       A11  U2        B1  U2        C2  U2        D4  U2        D5  U2        D6  U2        D7  U2        D8  U2        E4  U2        E5  U2        E6  U2        E7  U2        E8  U2        F2  U2        F4  U2        F5  U2        F6  U2        F7  U2        F8  U2        G2  U2        H2  U2        H3  U2        H5  U2        J1  U2        J4  U2        J5  U2       J11  U3       A11  U3        B1  U3        C2  U3        D4  U3        D5  U3        D6  U3        D7  U3        D8  U3        E4  U3        E5  U3        E6  U3        E7  U3        E8  U3        F2  U3        F4  U3        F5  U3        F6  U3        F7  U3        F8  U3        G2  U3        H2  U3        H3  U3        H5  U3        J1  U3        J4  U3        J5  U3       J11  U4       A11  U4        B1  U4        C2  U4        D4  U4        D5  U4        D6  U4        D7  U4        D8  U4        E4  U4        E5  U4        E6  U4        E7  U4        E8  U4        F2  U4        F4  U4        F5  U4        F6  U4        F7  U4        F8  U4        G2  U4        H2  U4        H3  U4        H5  U4        J1  U4        J4  U4        J5  U4       J11  U5         5  U5         9  U5        21  U5        24  U5        25  U6         5  U6         9  U6        21  U6        24  U6        25  U7         5  U7         9  U7        21  U7        24  U7        25  U8         2  U8         3  U9         2  U9         3  U10        2  U10        3  U11        2  U11        3  U12        2  U12        7  U13        2  U14        2  U15       C1  U16        2  U17       12  U17       21  U18        1  U18        2  U18        3  U18       10  U19        5  U19        6  U19       14  U20       13  U21        4  U22        4  U23        2  U24        4  U25        6  U26      3,6  U27        3  U27        6  Y1         2
+NODENAME CAM_SDA          $
+    J1         9  R9         2  R27        2  R43        2
+NODENAME CAM_SCL          $
+    J1         8  R11        2  R28        2  R44        2
+NODENAME CAM_D1_P         $
+    J1         4  U6        11
+NODENAME CAM_D1_N         $
+    J1         3  U6        12
+NODENAME CAM_D0_P         $
+    J1         2  U6         8
+NODENAME CAM_D0_N         $
+    J1         1  U6        10
+NODENAME CAM_CK_P         $
+    J1         6  U6         6
+NODENAME CAM_CK_N         $
+    J1         5  U6         7
+NODENAME ADC_IN           $
+    C89        1  R45        2  R57        2  TP16       1  U20       10  U20       11
+NODENAME ADC_EOC          $
+    R47        2  R49        1  U19       10
+NODENAME ADC_CS           $
+    D2         1  J2         7  R50        1  TP13       1  U19       11
+NODENAME ADC_CONVST       $
+    D2         3  J2         8  R48        1  TP14       1  U19        9
+NODENAME -5               $
+    C91        2  C103       2  C112       2  C130       2  U21       21  U22       21  U24       21  U27        5
+NODENAME +5V_CAM          $
+    C69        1  C73        1  C77        1  J1        11  R3         2  R5         2  R7         2  R30        1  TP6        0  U12        1  U14        1  U16        1
+NODENAME +5               $
+    C117       2  C119       1  C122       2  C124       1  C128       1  JP1        2  L1         2  R66        2  U26        1  U26        2  U27        8
+NODENAME +3.3V            $
+    C64        2  C70        1  C71        1  C75        1  C79        2  C82        2  R4         2  R6         2  R9         1  R11        1  R25        1  R26        1  R29        1  TP1        0  U12        5  U13        1  U15       A2  U15       C2  U17        2  Y1         1  Y1         4
+NODENAME +3.3             $
+    C83        2  C84        2  C97        2  C98        2  C106       2  C107       2  C123       2  C125       1  R48        2  R49        2  R50        2  R51        2  R56        2  R59        2  R60        2  R64        2  R65        2  U19        1  U19       16  U20        4  U23        3  U23        4  U26        4  U26        5
+NODENAME +2.8V            $
+    C21        2  C22        2  C23        2  C24        2  C25        2  C26        2  C27        2  C28        2  C29        2  C30        2  C31        2  C32        2  C33        2  C34        2  C35        2  C36        2  C74        1  TP3        0  U1        G1  U1        J2  U1        J3  U1        J7  U1        J9  U2        G1  U2        J2  U2        J3  U2        J7  U2        J9  U3        G1  U3        J2  U3        J3  U3        J7  U3        J9  U4        G1  U4        J2  U4        J3  U4        J7  U4        J9  U14        5
+NODENAME +2.4V            $
+    C72        1  C81        2  TP2        0  U13        5  U18       20
+NODENAME +1.8V            $
+    C1         2  C2         2  C3         2  C4         2  C5         2  C6         2  C7         2  C8         2  C9         2  C10        2  C11        2  C12        2  C13        2  C14        2  C15        2  C16        2  C17        2  C18        2  C19        2  C20        2  C61        2  C62        2  C63        2  C65        2  C66        2  C67        2  C68        2  C78        1  C80        2  R13        1  R14        1  R15        1  R16        1  R17        1  R18        1  R19        1  R20        1  R21        1  R22        1  R23        1  R24        1  R31        1  R33        1  R34        1  R35        1  R36        1  R37        1  R38        1  TP5        0  U1        B2  U1       B10  U1        H1  U1        H4  U1        H8  U1        H9  U2        B2  U2       B10  U2        H1  U2        H4  U2        H8  U2        H9  U3        B2  U3       B10  U3        H1  U3        H4  U3        H8  U3        H9  U4        B2  U4       B10  U4        H1  U4        H4  U4        H8  U4        H9  U5        18  U6        18  U7        18  U8         5  U9         5  U10        5  U11        5  U16        5  U17       24
+NODENAME +1.05V           $
+    C37        2  C38        2  C39        2  C40        2  C41        2  C42        2  C43        2  C44        2  C45        2  C46        2  C47        2  C48        2  C49        2  C50        2  C51        2  C52        2  C53        2  C54        2  C55        2  C56        2  C57        2  C58        2  C59        2  C60        2  C76        1  R32        1  TP4        0  U1        A2  U1        B3  U1        B9  U1       B11  U1        F1  U1        H7  U1       H11  U1       J10  U2        A2  U2        B3  U2        B9  U2       B11  U2        F1  U2        H7  U2       H11  U2       J10  U3        A2  U3        B3  U3        B9  U3       B11  U3        F1  U3        H7  U3       H11  U3       J10  U4        A2  U4        B3  U4        B9  U4       B11  U4        F1  U4        H7  U4       H11  U4       J10  U15       A1  U15       B1
+NODENAME 12V_EXP          $
+    C90        2  C102       2  C111       2  C116       2  C118       1  J2         1  JP1        1  U21        2  U22        2  U24        2  U25        7
+NODENAME 0R_ADC_IN        $
+    D1         1  D1         3  J2         9  R47        1  R57        1
+EOS
