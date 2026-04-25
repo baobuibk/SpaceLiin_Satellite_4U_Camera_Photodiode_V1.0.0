@@ -1,0 +1,53 @@
+Removed Pin From Net: NetName=VREF_ADC Pin=R62-1
+Removed Member From Class: ClassName=PHOTODIODE Member=R61
+Added Component: Designator=C131(CN-SMD-0603)
+Add component (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Added Component: Designator=C132(CN-SMD-0603)
+Add component (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Added Component: Designator=C133(CN-SMD-0603)
+Add component (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Added Component: Designator=H1(HEX-2.2mm)
+Added Component: Designator=H2(HEX-2.2mm)
+Added Component: Designator=H3(HEX-M3_NoVia_Smaller)
+Added Component: Designator=H4(HEX-2.2mm)
+Added Component: Designator=JP2(JUMPER_1608)
+Added Component: Designator=JP3(JUMPER_1608)
+Added Component: Designator=TP33(Testpoint_80_pin0)
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "NF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C131-1
+Added Pin To Net: NetName=VREF_ADC Pin=C132-2
+Added Pin To Net: NetName=GND Pin=C133-1
+Added Pin To Net: NetName=GND Pin=H3-1
+Added Pin To Net: NetName=VREF_PD Pin=JP2-1
+Added Pin To Net: NetName=GND Pin=JP2-2
+Added Pin To Net: NetName=VREF_PD Pin=JP3-2
+Added Pin To Net: NetName=GND Pin=TP33-0
+Added Pin To Net: NetName=NetC131_2 Pin=C131-2
+Added Pin To Net: NetName=NetC131_2 Pin=J3-3
+Added Pin To Net: NetName=NetC131_2 Pin=JP3-1
+Added Pin To Net: NetName=NetC131_2 Pin=R62-2
+Added Pin To Net: NetName=NetC131_2 Pin=R63-2
+Added Net: Name=NetC131_2
+Added Pin To Net: NetName=NetC132_1 Pin=C132-1
+Added Pin To Net: NetName=NetC132_1 Pin=C133-2
+Added Net: Name=NetC132_1
+Added Pin To Net: NetName=NetR62_1 Pin=R62-1
+Added Pin To Net: NetName=NetR62_1 Pin=U23-1
+Added Net: Name=NetR62_1
+Added Member To Class: ClassName=PHOTODIODE Member=Component C131 10nF/50V
+Added Member To Class: ClassName=PHOTODIODE Member=Component C132 0.22uF/25V
+Added Member To Class: ClassName=PHOTODIODE Member=Component C133 0.22uF/25V
+Added Member To Class: ClassName=CAM_CONNECTOR Member=Component H1 M2
+Added Member To Class: ClassName=CAM_CONNECTOR Member=Component H2 M2
+Added Member To Class: ClassName=PHOTO_COMMUNICATION Member=Component H3 HOLD
+Added Member To Class: ClassName=CAM_CONNECTOR Member=Component H4 M2
+Added Member To Class: ClassName=PHOTODIODE Member=Component JP2 DNP
+Added Member To Class: ClassName=PHOTODIODE Member=Component JP3 DNP
+Added Member To Class: ClassName=CAM_SENSOR Member=Component TP33

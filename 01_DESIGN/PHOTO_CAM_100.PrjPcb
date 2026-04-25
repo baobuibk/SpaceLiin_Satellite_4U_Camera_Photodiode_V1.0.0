@@ -132,7 +132,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JFXOFFXT
 
 [Document6]
 DocumentPath=PHOTO_CAM_100.BomDoc
@@ -302,7 +302,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=KCDIMUUT
 
 [Document16]
 DocumentPath=CAM_SENSOR.SchDoc
@@ -312,6 +312,23 @@ AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=6
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ZKGJGORF
+
+[Document17]
+DocumentPath=PHOTO_CAM_100.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -730,24 +747,56 @@ DocumentPath=Project Outputs for CAM_v121\Design Rule Check - CAM_SEN_V121.html
 DItemRevisionGUID=
 
 [GeneratedDocument103]
-DocumentPath=Project Outputs for CAM_SEN_V100\Pick Place for CAM_SEN_V100.csv
+DocumentPath=Project Outputs for PHOTO_CAM_100\Design Rule Check - PHOTO_CAM_100.html
 DItemRevisionGUID=
 
 [GeneratedDocument104]
-DocumentPath=Project Outputs for CAM_SEN_V100\Pick Place for CAM_SEN_V100.txt
+DocumentPath=Project Outputs for CAM_SEN_V100\Pick Place for CAM_SEN_V100.csv
 DItemRevisionGUID=
 
 [GeneratedDocument105]
-DocumentPath=Project Outputs for CAM_v101\Pick Place for CAM_SEN_V101.csv
+DocumentPath=Project Outputs for CAM_SEN_V100\Pick Place for CAM_SEN_V100.txt
 DItemRevisionGUID=
 
 [GeneratedDocument106]
-DocumentPath=Project Outputs for CAM_v120\Pick Place for CAM_SEN_V120.csv
+DocumentPath=Project Outputs for CAM_v101\Pick Place for CAM_SEN_V101.csv
 DItemRevisionGUID=
 
 [GeneratedDocument107]
+DocumentPath=Project Outputs for CAM_v120\Pick Place for CAM_SEN_V120.csv
+DItemRevisionGUID=
+
+[GeneratedDocument108]
 DocumentPath=Project Outputs for CAM_v121\Pick Place for CAM_SEN_V121.csv
 DItemRevisionGUID=
+
+[Parameter1]
+Name=SubSystem
+Value=OSA (Optical Sensor Array)
+
+[Parameter2]
+Name=Revision
+Value=1.0.0
+
+[Parameter3]
+Name=MasterProject
+Value=BEE-PC
+
+[Parameter4]
+Name=DrawnBy
+Value=Cam Doan
+
+[Parameter5]
+Name=Date
+Value=4/25/2026
+
+[Parameter6]
+Name=CheckedBy
+Value=Bao Bui
+
+[Parameter7]
+Name=ApprovedBy
+Value=Vu Pham
 
 [Configuration1]
 Name=Sources
@@ -758,6 +807,45 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_SmartPDF]
+AutoOpenFile=-1
+AutoOpenOutJob=-1
+
+[Generic_SmartPDFSettings]
+ProjectMode=-1
+ZoomPrecision=50
+AddNetsInformation=-1
+AddNetPins=-1
+AddNetNetLabels=-1
+AddNetPorts=-1
+ShowComponentParameters=-1
+GlobalBookmarks=0
+ExportBOM=-1
+TemplateFilename=
+TemplateStoreRelative=-1
+PCB_PrintColor=1
+SCH_PrintColor=0
+PrintQuality=-3
+SCH_ShowNoErc=-1
+SCH_ShowParameter=-1
+SCH_ShowProbes=-1
+SCH_ShowBlankets=-1
+SCH_NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle
+SCH_ShowNote=-1
+SCH_ShowNoteCollapsed=-1
+Wir_PrintColor=0
+Ldr_PrintColor=0
+Esd_PrintColor=0
+SCH_ExpandLogicalToPhysical=0
+SCH_VariantName=[No Variations]
+SCH_ExpandComponentDesignators=-1
+SCH_ExpandNetlabels=0
+SCH_ExpandPorts=0
+SCH_ExpandSheetNumber=0
+SCH_ExpandDocumentNumber=0
+SCH_HasExpandLogicalToPhysicalSheets=-1
+SaveSettingsToOutJob=-1
 
 [OutputGroup1]
 Name=Netlist Outputs
