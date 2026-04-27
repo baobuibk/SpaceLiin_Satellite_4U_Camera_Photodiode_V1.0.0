@@ -1,0 +1,48 @@
+Change Component Comment : Designator=R63 Old Comment=2K/1%/DNP New Comment=2K/1%
+Change Component Comment : Designator=R62 Old Comment=10K/1%/DNP New Comment=10K/1%
+Change Component Designator: OldDesignator=PD1 NewDesignator=PD23
+Change Component Designator: OldDesignator=PD2 NewDesignator=PD17
+Change Component Designator: OldDesignator=PD3 NewDesignator=PD11
+Change Component Designator: OldDesignator=PD4 NewDesignator=PD5
+Change Component Designator: OldDesignator=PD5 NewDesignator=PD24
+Change Component Designator: OldDesignator=PD7 NewDesignator=PD18
+Change Component Designator: OldDesignator=PD8 NewDesignator=PD12
+Change Component Designator: OldDesignator=PD9 NewDesignator=PD21
+Change Component Designator: OldDesignator=PD10 NewDesignator=PD15
+Change Component Designator: OldDesignator=PD11 NewDesignator=PD9
+Change Component Designator: OldDesignator=PD12 NewDesignator=PD3
+Change Component Designator: OldDesignator=PD13 NewDesignator=PD22
+Change Component Designator: OldDesignator=PD14 NewDesignator=PD4
+Change Component Designator: OldDesignator=PD15 NewDesignator=PD16
+Change Component Designator: OldDesignator=PD16 NewDesignator=PD10
+Change Component Designator: OldDesignator=PD17 NewDesignator=PD19
+Change Component Designator: OldDesignator=PD18 NewDesignator=PD13
+Change Component Designator: OldDesignator=PD19 NewDesignator=PD7
+Change Component Designator: OldDesignator=PD20 NewDesignator=PD1
+Change Component Designator: OldDesignator=PD21 NewDesignator=PD20
+Change Component Designator: OldDesignator=PD22 NewDesignator=PD2
+Change Component Designator: OldDesignator=PD23 NewDesignator=PD14
+Change Component Designator: OldDesignator=PD24 NewDesignator=PD8
+Change Net Name : Old Net Name=NetPD1_2 New Net Name=NetPD23_2
+Change Net Name : Old Net Name=NetPD2_2 New Net Name=NetPD17_2
+Change Net Name : Old Net Name=NetPD3_2 New Net Name=NetPD11_2
+Change Net Name : Old Net Name=NetPD4_2 New Net Name=NetPD5_2
+Change Net Name : Old Net Name=NetPD5_2 New Net Name=NetPD24_2
+Change Net Name : Old Net Name=NetPD7_2 New Net Name=NetPD18_2
+Change Net Name : Old Net Name=NetPD8_2 New Net Name=NetPD12_2
+Change Net Name : Old Net Name=NetPD9_2 New Net Name=NetPD21_2
+Change Net Name : Old Net Name=NetPD10_2 New Net Name=NetPD15_2
+Change Net Name : Old Net Name=NetPD11_2 New Net Name=NetPD9_2
+Change Net Name : Old Net Name=NetPD12_2 New Net Name=NetPD3_2
+Change Net Name : Old Net Name=NetPD13_2 New Net Name=NetPD22_2
+Change Net Name : Old Net Name=NetPD14_2 New Net Name=NetPD4_2
+Change Net Name : Old Net Name=NetPD15_2 New Net Name=NetPD16_2
+Change Net Name : Old Net Name=NetPD16_2 New Net Name=NetPD10_2
+Change Net Name : Old Net Name=NetPD17_2 New Net Name=NetPD19_2
+Change Net Name : Old Net Name=NetPD18_2 New Net Name=NetPD13_2
+Change Net Name : Old Net Name=NetPD19_2 New Net Name=NetPD7_2
+Change Net Name : Old Net Name=NetPD20_2 New Net Name=NetPD1_2
+Change Net Name : Old Net Name=NetPD21_2 New Net Name=NetPD20_2
+Change Net Name : Old Net Name=NetPD22_2 New Net Name=NetPD2_2
+Change Net Name : Old Net Name=NetPD23_2 New Net Name=NetPD14_2
+Change Net Name : Old Net Name=NetPD24_2 New Net Name=NetPD8_2
