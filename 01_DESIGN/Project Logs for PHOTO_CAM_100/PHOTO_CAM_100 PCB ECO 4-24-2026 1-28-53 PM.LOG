@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=H3-1
-Removed Member From Class: ClassName=CAM_CONNECTOR Member=H1
-Removed Member From Class: ClassName=CAM_CONNECTOR Member=H2
-Removed Member From Class: ClassName=PHOTO_COMMUNICATION Member=H3
-Removed Member From Class: ClassName=CAM_CONNECTOR Member=H4

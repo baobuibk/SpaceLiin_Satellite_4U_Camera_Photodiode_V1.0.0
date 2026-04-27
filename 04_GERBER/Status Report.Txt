@@ -1,0 +1,10 @@
+Output: Report Board Stack
+Type  : Report Board Stack
+From  : Project [OSA_V100.PrjPcb]
+   Generated File[OSA_V100.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:44:10 AM On 4/27/2026
