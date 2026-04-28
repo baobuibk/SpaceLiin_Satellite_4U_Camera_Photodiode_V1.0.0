@@ -2,22 +2,38 @@
 FileName = OSA_V100.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Overlay
-      File : OSA_V100_Legend_Bot.gbr
+Generating : Keep-Out Layer
+      File : OSA_V100_Keep-out.gbr
 
-    Adding Layer      : Bottom Overlay
+    Adding Layer      : Keep-Out Layer
 
 
 Used DCodes :
-    D10
-    D11
-    D15
-    D19
+    D117
 *************************************************************
 
 *************************************************************
-Generating : Top Pad Master
-      File : OSA_V100_Pads_Top.gbr
+Generating : Bottom Paste
+      File : OSA_V100_Paste_Bot.gbr
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : [L6] BOTTOM
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D113
+    D114
+    D115
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : OSA_V100_Paste_Top.gbr
+
+    Adding Layer      : Top Paste
 
     Adding Layer      : [L1] TOP
 
@@ -69,28 +85,13 @@ Used DCodes :
     D62
     D63
     D64
-    D83
-    D107
 *************************************************************
 
 *************************************************************
-Generating : [L5] GND_2
-      File : [L5] GND 2.gbr
+Generating : Bottom Solder
+      File : OSA_V100_Soldermask_Bot.gbr
 
-    Adding Layer      : [L5] GND_2
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D16
-    D108
-    D109
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : OSA_V100_Pads_Bot.gbr
+    Adding Layer      : Bottom Solder
 
     Adding Layer      : [L6] BOTTOM
 
@@ -98,69 +99,10 @@ Generating : Bottom Pad Master
 
 
 Used DCodes :
-    D107
+    D99
     D113
     D114
-    D115
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : OSA_V100_Paste_Bot.gbr
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : [L6] BOTTOM
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D113
-    D114
-    D115
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : OSA_V100_Legend_Top.gbr
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-*************************************************************
-
-*************************************************************
-Generating : [L3] SIGNAL
-      File : [L3] SIGNAL.gbr
-
-    Adding Layer      : [L3] SIGNAL
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D13
-    D101
-    D104
-    D105
-    D106
-    D108
-    D109
-    D110
-    D111
+    D116
 *************************************************************
 
 *************************************************************
@@ -227,10 +169,101 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : OSA_V100_Soldermask_Bot.gbr
+Generating : Bottom Overlay
+      File : OSA_V100_Legend_Bot.gbr
 
-    Adding Layer      : Bottom Solder
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D15
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : OSA_V100_Legend_Top.gbr
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : OSA_V100_Pads_Top.gbr
+
+    Adding Layer      : [L1] TOP
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D83
+    D107
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : OSA_V100_Pads_Bot.gbr
 
     Adding Layer      : [L6] BOTTOM
 
@@ -238,10 +271,105 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D99
+    D107
     D113
     D114
-    D116
+    D115
+*************************************************************
+
+*************************************************************
+Generating : [L6] BOTTOM
+      File : [L6] BOTTOM.gbr
+
+    Adding Layer      : [L6] BOTTOM
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D13
+    D16
+    D19
+    D100
+    D101
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D112
+    D113
+    D114
+    D115
+*************************************************************
+
+*************************************************************
+Generating : [L5] GND_2
+      File : [L5] GND 2.gbr
+
+    Adding Layer      : [L5] GND_2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D108
+    D109
+*************************************************************
+
+*************************************************************
+Generating : [L4] POWER
+      File : [L4] POWER.gbr
+
+    Adding Layer      : [L4] POWER
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D101
+    D103
+    D108
+    D109
+*************************************************************
+
+*************************************************************
+Generating : [L3] SIGNAL
+      File : [L3] SIGNAL.gbr
+
+    Adding Layer      : [L3] SIGNAL
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D101
+    D104
+    D105
+    D106
+    D108
+    D109
+    D110
+    D111
+*************************************************************
+
+*************************************************************
+Generating : [L2] GND_1
+      File : [L2] GND.gbr
+
+    Adding Layer      : [L2] GND_1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D108
+    D109
 *************************************************************
 
 *************************************************************
@@ -313,134 +441,6 @@ Used DCodes :
     D106
     D107
     D108
-*************************************************************
-
-*************************************************************
-Generating : [L2] GND_1
-      File : [L2] GND.gbr
-
-    Adding Layer      : [L2] GND_1
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D16
-    D108
-    D109
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : OSA_V100_Keep-out.gbr
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-    D117
-*************************************************************
-
-*************************************************************
-Generating : [L4] POWER
-      File : [L4] POWER.gbr
-
-    Adding Layer      : [L4] POWER
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D101
-    D103
-    D108
-    D109
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : OSA_V100_Paste_Top.gbr
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : [L1] TOP
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-*************************************************************
-
-*************************************************************
-Generating : [L6] BOTTOM
-      File : [L6] BOTTOM.gbr
-
-    Adding Layer      : [L6] BOTTOM
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D11
-    D13
-    D16
-    D19
-    D100
-    D101
-    D103
-    D104
-    D105
-    D106
-    D107
-    D108
-    D112
-    D113
-    D114
-    D115
 *************************************************************
 
 *************************************************************
