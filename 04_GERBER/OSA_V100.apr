@@ -70,11 +70,11 @@ D97   RECTANGULAR       132.016     137.921       0.000 FLASH     180.000
 D98   RECTANGULAR      1354.331    1433.071       0.000 FLASH       0.000
 D99   ROUNDED           204.850     204.850       0.000 FLASH       0.000
 D100  ROUNDED             7.087       7.087       0.000  LINE       0.000
-D101  ROUNDED            15.748      15.748       0.000  LINE       0.000
-D102  ROUNDED            27.559      27.559       0.000  LINE       0.000
-D103  ROUNDED            19.685      19.685       0.000  LINE       0.000
-D104  ROUNDED            12.598      12.598       0.000  LINE       0.000
-D105  ROUNDED            13.780      13.780       0.000  LINE       0.000
+D101  ROUNDED            12.598      12.598       0.000  LINE       0.000
+D102  ROUNDED            13.780      13.780       0.000  LINE       0.000
+D103  ROUNDED            15.748      15.748       0.000  LINE       0.000
+D104  ROUNDED            27.559      27.559       0.000  LINE       0.000
+D105  ROUNDED            19.685      19.685       0.000  LINE       0.000
 D106  ROUNDED             8.661       8.661       0.000  LINE       0.000
 D107  ROUNDED           196.850     196.850       0.000 FLASH       0.000
 D108  ROUNDED            15.748      15.748       0.000 FLASH       0.000
